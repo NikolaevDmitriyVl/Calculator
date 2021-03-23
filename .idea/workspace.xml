@@ -3,196 +3,369 @@
   <component name="ChangeListManager">
     <list default="true" id="b32f5815-f486-4d94-adb2-b85808956a45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CheckTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/GlavaOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork001_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork001_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork001_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork004.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork005.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork007.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork008.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork009.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork010.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork011.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork012.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork013.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork014.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork015.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork016.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork017.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork019.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork020.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork021.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork022.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork023.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork024.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork025.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork026.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork027.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork028.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork029.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork030.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork031.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork032.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork033.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork034.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork035.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork036.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork037.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork038.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork039.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork040.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork041.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork042.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork043.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork044.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork045.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork046.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork047.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork048.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork049.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork050.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork051.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork052.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork053.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork054.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork055.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork056.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork057.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork058.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork059.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork060.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork061.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork062.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork063.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork064.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork065.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork066.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork067.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork068.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork069.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork070.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork071.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork072.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork073.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork074.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork075.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork076.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork077.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork079.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork080.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork081.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork082.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork083.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork084.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork085.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork086.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork087.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork088.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork095.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork096.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork100.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork101.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork119.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson004.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson005.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson006.java___jb_tmp___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson007.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson008.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson009.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson010.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson011.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson012.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson013.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson014.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson015.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson016.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson017.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson019.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson020.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson021.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson022.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson023.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson024.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson025.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson026.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson027.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson028.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson029.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson030.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson031.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson032.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson033.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson034.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson035.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson036.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson037.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson038.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson039.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson040.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson041.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson042.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson043.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson044.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson045.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson046.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson047.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson048.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson049.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson050.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson051.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson052.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson053.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson054.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson055.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson056.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson057.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson058.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson059.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson060.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson061.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson062.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson063.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson064.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson065.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson066.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson067.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson068.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson069.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson070.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson071.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson072.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson073.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson074.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson075.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson076.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson077.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson078.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson079.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson080.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson081.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson082.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson083.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson084.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson085.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson086.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson087.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson087.java___jb_tmp___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson088.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Lesson125.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Rondom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/BB21_12_2020.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/BBJanuary19_21$TempScale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/BBJanuary19_21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/BarryBird23_12_2020.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/BarryBird29_11_20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/DoPayroll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/DoPayrollTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/EmployeeTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/Temperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/TemperatureNice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/UseAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/BarryBird/UseTemperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/CheckTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/GlavaOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork001_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork001_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork001_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork006.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork007.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork009.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork010.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork011.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork012.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork013.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork014.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork015.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork016.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork017.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork018.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork019.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork020.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork021.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork022.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork023.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork024.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork025.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork026.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork027.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork028.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork029.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork030.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork031.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork032.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork033.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork034.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork035.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork036.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork037.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork038.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork039.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork040.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork041.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork042.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork043.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork044.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork045.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork046.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork047.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork048.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork049.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork050.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork051.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork052.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork053.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork054.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork055.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork056.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork057.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork058.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork059.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork060.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork061.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork062.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork063.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork064.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork065.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork066.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork067.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork068.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork069.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork070.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork071.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork072.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork073.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork074.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork075.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork076.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork077.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork079.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork080.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork081.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork082.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork083.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork084.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork085.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork086.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork087.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork088.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork089/HomeWork089.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork089/Nazvaniya.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork089/Sotrudniki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork089/Vershini.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork090/HomeWork090.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork090/Kontakti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork090/Uchenik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork090/Uchenik2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork091/HomeWork091.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork091/Oblast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork091/Prokat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork091/Strana.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork092/HomeWork092.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork092/Semeynie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork093/HomeWork093.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork094/HomeWork094.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork095.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork096.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork096_ex13/HomeWork096_ex13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork096_ex13/Ucheniki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork097/HomeWork097.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork098/HomeWork098.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork099/HomeWork099.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork102/HomeWork102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork102/Sotrudniki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork103/HomeWork103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork104/HomeWork104.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork105/HomeWork105.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork105/Stoimost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork106/HomeWork106.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork106/Momenti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork107/HomeWork107.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork108/HomeWork108.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork109/HomeWork109.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork109/Sobitiya.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork110/HomeWork110.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork110/Momenti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork111/HomeWork111.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork111/Sotrudniki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork111/Strani.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork112/HomeWork112.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork112/Ucheniki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork112/ZapisnayaKnizhka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork113/HomeWork113.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork114/HomeWork114.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork114/PhoneBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork114/Uchashchiesya.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork115/HomeWork115.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork116/HomeWork116.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork117/HomeWork117.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork118/HomeWork118.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork118/Osadki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork119.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork120/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork120/HomeWork120.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork121/HomeWork121.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork122/HomeWork122.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork123/EnginePower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork123/HomeWork123.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork123/Price.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork124/HomeWork124.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/HomeWork_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/JavaSE/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/JavaSE/JavaSE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K/CalculationSrv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K/HistoricalValueFrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K/Kalkulyator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K2/ArabicOrRoman2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K2/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K2/DataDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K2/NumbersSign2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K2/Parserr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K3/Check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K3/KlassOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K3/Proverit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K4/ArabicOrRoman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K4/CalculateException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K4/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K4/NumbersSign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/K4/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson006.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson006.java___jb_tmp___" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson007.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson009.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson010.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson011.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson012.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson013.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson014.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson015.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson016.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson017.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson018.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson019.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson020.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson021.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson022.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson023.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson024.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson025.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson026.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson027.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson028.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson029.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson030.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson031.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson032.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson033.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson034.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson035.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson036.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson037.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson038.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson039.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson040.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson041.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson042.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson043.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson044.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson045.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson046.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson047.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson048.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson049.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson050.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson051.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson052.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson053.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson054.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson055.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson056.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson057.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson058.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson059.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson060.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson061.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson062.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson063.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson064.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson065.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson066.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson067.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson068.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson069.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson070.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson071.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson072.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson073.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson074.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson075.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson076.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson077.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson078.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson079.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson080.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson081.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson082.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson083.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson084.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson085.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson086.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson087.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson087.java___jb_tmp___" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson088.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson089/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson089/FutbolniyClub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson089/Lesson089.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson089/Ucheniki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson090/Lesson090.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson090/ModeliAvto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson090/Vershini.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson091/BenzinEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson091/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson091/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson091/DizelEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson091/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson091/GazEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson091/Lesson091.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Dvigatel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Frezerniy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Gabariti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Instrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Lesson092.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/RazmerShlifovalnogoKruga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Shlifovalniy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Shpindel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Stanina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Stanok.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Sverlilniy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson092/Tokarniy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson093/Lesson093.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson094/Lesson094.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson095/Lesson095.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson096/Lesson096.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson097/Lesson097.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson098/GirevoySport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson098/Lesson098.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson098/Pauerlifting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson098/TyazelayaAtletika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson099/Lesson099.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson100/Lesson100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson101/Lesson101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson102/Lesson102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson103/Lesson103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson104/Lesson104.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson105/Lesson105.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson106/Lesson106.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson107/Lesson107.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson108/Lesson108.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson109/Lesson109.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson110/Lesson110.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson111/Lesson111.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson112/Lesson112.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson113/Lesson113.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson114/Lesson114.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson115/Lesson115.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson116/FootballTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson116/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson116/Lesson116.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson118/Lesson118.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson119/Lesson119.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson120/Lesson120.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson121/Lesson121.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson122/Lesson122.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson123/Lesson123.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson124/Lesson124.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Lesson125.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Rondom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt/CompFuel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt/Help$Help1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt/Help$Help2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt/Help$HelpClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt/Help.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt131/MyMeth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt131/RedMeth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt131/TwoVehicles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt131/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt131/Vehicle2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt_140/ChkNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/practice/Shildt_140/ParmDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/K4/ArabicOrRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/ArabicOrRoman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/K4/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/K4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/K4/NumbersSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/NumbersSign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/K4/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/Parser.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -204,7 +377,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/practice/K4/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Calculator/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -213,16 +386,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/K4/Parser.java">
+        <entry file="file://$PROJECT_DIR$/src/Calculator/Parser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/K4/Calculator.java">
+        <entry file="file://$PROJECT_DIR$/src/Calculator/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
               <caret line="36" column="85" selection-start-line="36" selection-start-column="85" selection-end-line="36" selection-end-column="85" />
@@ -231,7 +404,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/K4/NumbersSign.java">
+        <entry file="file://$PROJECT_DIR$/src/Calculator/NumbersSign.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
@@ -240,10 +413,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/K4/ArabicOrRoman.java">
+        <entry file="file://$PROJECT_DIR$/src/Calculator/ArabicOrRoman.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="23" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="9" />
+              <caret line="4" column="23" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -272,8 +445,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/practice/HomeWork120/HomeWork120.java" />
-        <option value="$PROJECT_DIR$/src/practice/Lesson120/Lesson120.java" />
         <option value="$PROJECT_DIR$/src/practice/K3/Check.java" />
         <option value="$PROJECT_DIR$/src/practice/GlavaOne.java" />
         <option value="$PROJECT_DIR$/src/practice/HomeWork121/HomeWork121.java" />
@@ -323,6 +494,8 @@
         <option value="$PROJECT_DIR$/src/practice/K4/Calculator.java" />
         <option value="$PROJECT_DIR$/src/practice/K4/Main.java" />
         <option value="$PROJECT_DIR$/src/practice/K4/Parser.java" />
+        <option value="$PROJECT_DIR$/src/practice/Calculat/Main.java" />
+        <option value="$PROJECT_DIR$/src/Calculator/Main.java" />
       </list>
     </option>
   </component>
@@ -365,7 +538,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616522970667" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616523416172" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
@@ -386,7 +559,7 @@
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.K4.*" />
+          <option name="PATTERN" value="practice.Calculat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,12 +593,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.K4.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.K2.Main" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.K4.*" />
+          <option name="PATTERN" value="practice.K2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,11 +607,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.K2.Main" />
+      <option name="MAIN_CLASS_NAME" value="practice.Calculat.Main" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.K2.*" />
+          <option name="PATTERN" value="practice.Calculat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculat.Main" />
+      <module name="Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calculat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -462,10 +648,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Check3" />
-        <item itemvalue="Application.Lesson125" />
       </list>
     </recent_temporary>
   </component>
@@ -494,7 +680,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616522736562</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="delete2">
+      <created>1616523020949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616523020949</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -558,7 +751,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="del1" />
-    <option name="LAST_COMMIT_MESSAGE" value="del1" />
+    <MESSAGE value="delete2" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -875,7 +1069,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/K4/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/Calculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="85" selection-start-line="36" selection-start-column="85" selection-end-line="36" selection-end-column="85" />
@@ -889,24 +1083,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/K4/NumbersSign.java">
+    <entry file="file://$PROJECT_DIR$/src/Calculator/NumbersSign.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/K4/ArabicOrRoman.java">
+    <entry file="file://$PROJECT_DIR$/src/Calculator/ArabicOrRoman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="9" />
+          <caret line="4" column="23" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/K4/Parser.java">
+    <entry file="file://$PROJECT_DIR$/src/Calculator/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -920,7 +1114,7 @@
     <entry file="file://$PROJECT_DIR$/Lessons.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/K4/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Calculator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />

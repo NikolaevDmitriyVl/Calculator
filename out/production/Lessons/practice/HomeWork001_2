@@ -1,7 +1,0 @@
-package practice;
-
-public class_HomeWork001_2{
-public static void main(String[]args){
-        system.out.println("input");
-        }
-        }
