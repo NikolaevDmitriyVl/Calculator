@@ -3,6 +3,196 @@
   <component name="ChangeListManager">
     <list default="true" id="b32f5815-f486-4d94-adb2-b85808956a45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/CheckTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/GlavaOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork001_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork001_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork001_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork015.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork016.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork017.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork018.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork019.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork020.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork021.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork022.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork024.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork025.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork026.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork027.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork028.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork029.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork030.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork031.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork032.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork033.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork034.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork035.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork036.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork037.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork038.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork039.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork040.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork041.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork042.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork043.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork044.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork045.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork046.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork047.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork048.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork049.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork050.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork051.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork052.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork053.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork054.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork055.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork056.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork057.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork058.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork059.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork060.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork061.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork062.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork063.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork064.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork065.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork066.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork067.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork068.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork069.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork070.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork071.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork072.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork073.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork074.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork075.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork076.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork077.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork079.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork080.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork081.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork082.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork083.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork084.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork085.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork086.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork087.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork088.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork095.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork096.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork101.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork119.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/HomeWork_7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson006.java___jb_tmp___" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson015.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson016.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson017.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson018.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson019.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson020.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson021.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson022.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson024.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson025.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson026.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson027.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson028.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson029.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson030.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson031.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson032.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson033.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson034.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson035.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson036.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson037.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson038.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson039.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson040.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson041.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson042.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson043.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson044.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson045.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson046.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson047.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson048.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson049.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson050.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson051.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson052.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson053.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson054.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson055.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson056.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson057.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson058.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson059.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson060.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson061.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson062.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson063.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson064.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson065.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson066.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson067.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson068.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson069.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson070.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson071.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson072.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson073.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson074.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson075.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson076.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson077.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson078.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson079.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson080.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson081.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson082.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson083.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson084.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson085.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson086.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson087.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson087.java___jb_tmp___" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson088.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Lesson125.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Rondom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.json" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +206,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/practice/K4/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="90">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
@@ -168,19 +358,6 @@
               <item name="Lessons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="K4" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -188,7 +365,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616522732827" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616522970667" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
@@ -310,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616522599472</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="del1">
+      <created>1616522736562</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616522736562</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -726,19 +910,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/K4/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
